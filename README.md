@@ -9,3 +9,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+
+Feito com 💜 durante o NLW Return da Rocketseat!
