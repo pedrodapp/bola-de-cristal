@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Projeto Bola de Cristal com JavaScript.
+Projeto Bola de Cristal para perguntas e respostas.
 
 ## 🚀 Tecnologias
 
