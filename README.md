@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Projeto Bola de Cristal. Feito com ♥ durante a Maratona Explorer da Rocketseat.
+Projeto Bola de Cristal com JavaScript.
 
 ## 🚀 Tecnologias
 
