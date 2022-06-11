@@ -12,4 +12,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito com 💜 durante o NLW Return da Rocketseat!
+Feito com 💜 durante a Maratona Explorer da Rocketseat!
