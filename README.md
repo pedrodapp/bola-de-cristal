@@ -1,12 +1,5 @@
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="bola-de-cristal" src="./preview.png" width="80%">
+  <img alt="bola-de-cristal" src="./preview.png" width="75%">
 </p>
 
 ## 💻 Projeto
