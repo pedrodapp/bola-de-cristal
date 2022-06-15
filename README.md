@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="bola-de-cristal" src="./preview.png" width="70%">
-</p>
-
 ## 💻 Projeto
 
 Projeto Bola de Cristal para perguntas e respostas.
