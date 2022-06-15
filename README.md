@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="bola-de-cristal" src="./preview.png" width="75%">
+  <img alt="bola-de-cristal" src="./preview.png" width="50%">
 </p>
 
 ## 💻 Projeto
